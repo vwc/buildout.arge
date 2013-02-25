@@ -1,5 +1,4 @@
 Introduction
 ============
 
-ARGE development buildout
 
